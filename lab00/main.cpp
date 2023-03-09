@@ -69,7 +69,7 @@ int main(int argc, char **argv) {
  */
     /*reversePrint(argv[1]);*/
 /**
- *
+ * by Ofer Shir
  */
     const int SIZE = 64;
     const int UBound = 101;
