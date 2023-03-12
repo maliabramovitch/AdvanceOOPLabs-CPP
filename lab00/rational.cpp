@@ -96,10 +96,9 @@ rational::operator std::string() const {
     return ss.str();
 }
 
-rational::Power &rational::operator*() const {
+rational::Power rational::operator*() const {
     double d = static_cast<double>(numerator) / static_cast<double>(denominator);
-    Power *p = new Power(d);
-    return *p;
+    return Power(d);
 }
 
 

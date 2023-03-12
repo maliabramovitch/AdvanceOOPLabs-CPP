@@ -53,7 +53,7 @@ public:
 
     explicit operator std::string() const;
 
-    rational::Power &operator*() const;
+    rational::Power operator*() const;
 
     friend double operator*(const rational& r, const Power &p);
 

@@ -1,4 +1,4 @@
-C:\Users\malia\AppData\Local\JetBrains\CLion2022.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/cygdrive/c/Users/malia/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/cygwin/ninja.exe -G Ninja -S "/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab00" -B "/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab00/cmake-build-debug"
+C:\Users\malia\AppData\Local\JetBrains\CLion2022.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/cygdrive/c/Users/malia/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/ninja/cygwin/x64/ninja.exe -G Ninja -S "/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab00" -B "/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab00/cmake-build-debug"
 -- The C compiler identification is GNU 7.4.0
 -- The CXX compiler identification is GNU 7.4.0
 -- Detecting C compiler ABI info
