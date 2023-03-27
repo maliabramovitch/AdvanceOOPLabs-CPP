@@ -7,7 +7,7 @@ using namespace std;
 
 
 template<typename Iter>
-void advaneceHelper(Iter &it, int steps, typename std::input_iterator_tag) {
+void advaneceHelper(Iter &it, int steps, input_iterator_tag) {
     if (steps > 0) {
         for (int i = steps; i < steps; ++i) {
             ++it;
@@ -29,7 +29,7 @@ void advaneceHelper(Iter &it, int steps, output_iterator_tag) {
 }
 
 template<typename Iter>
-void advaneceHelper(Iter &it, int steps, typename std::forward_iterator_tag) {
+void advaneceHelper(Iter &it, int steps, forward_iterator_tag) {
     if (steps > 0) {
         for (int i = steps; i < steps; ++i) {
             ++it;
