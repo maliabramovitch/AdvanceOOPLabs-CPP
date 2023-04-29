@@ -8,18 +8,18 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/bin/cmake.exe",
-			"cpack" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/bin/cpack.exe",
-			"ctest" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/bin/ctest.exe",
-			"root" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/share/cmake-3.25.2"
+			"cmake" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/bin/cmake.exe",
+			"cpack" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/bin/cpack.exe",
+			"ctest" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/bin/ctest.exe",
+			"root" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/share/cmake-3.24.2"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 25,
+			"minor" : 24,
 			"patch" : 2,
-			"string" : "3.25.2",
+			"string" : "3.24.2",
 			"suffix" : ""
 		}
 	},
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-31e2c48e69f50fb6d599.json",
+			"jsonFile" : "cache-v2-b06984d6de2890bc21a6.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-b68e48b7098b96e8e82d.json",
+			"jsonFile" : "cmakeFiles-v1-f01c232ae4bf93c5edd8.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-31e2c48e69f50fb6d599.json",
+			"jsonFile" : "cache-v2-b06984d6de2890bc21a6.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-b68e48b7098b96e8e82d.json",
+			"jsonFile" : "cmakeFiles-v1-f01c232ae4bf93c5edd8.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{

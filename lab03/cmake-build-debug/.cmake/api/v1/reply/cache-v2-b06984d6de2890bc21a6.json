@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "25"
+			"value" : "24"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/bin/cmake.exe"
+			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/bin/cpack.exe"
+			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/bin/ctest.exe"
+			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/cygwin/x64/ninja.exe"
+			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/223.8836.42/bin/ninja/cygwin/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -983,7 +983,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2023.1/cygwin_cmake/share/cmake-3.25.2"
+			"value" : "/cygdrive/c/Users/malia/AppData/Local/JetBrains/CLion2022.3/cygwin_cmake/share/cmake-3.24.2"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
