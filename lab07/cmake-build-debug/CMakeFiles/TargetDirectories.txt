@@ -1,0 +1,3 @@
+/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab07/cmake-build-debug/CMakeFiles/lab07.dir
+/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab07/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
