@@ -12,8 +12,6 @@ class SingleTone {
 
     SingleTone() = default;
 
-    friend class std::unique_ptr<SingleTone>;
-
 public:
     static SingleTone &getInstance();
 

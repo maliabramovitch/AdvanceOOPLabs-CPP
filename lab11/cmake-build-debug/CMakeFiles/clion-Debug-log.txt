@@ -1,0 +1,4 @@
+C:\Users\malia\AppData\Local\JetBrains\CLion2023.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -S "/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab11" -B "/cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab11/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/malia/Degree/Semester d/Advanced OOP/labs/AdvanceOOPLabs-CPP/lab11/cmake-build-debug
